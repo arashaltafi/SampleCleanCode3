@@ -1,0 +1,2 @@
+rootProject.name = "SampleCleanCode 3"
+include ':app'
